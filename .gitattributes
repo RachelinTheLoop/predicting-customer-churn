@@ -1,0 +1,7 @@
+.gitattributes
+
+# Use LF endings for all code/data files
+*.ipynb text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
