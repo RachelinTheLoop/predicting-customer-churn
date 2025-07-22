@@ -1,0 +1,38 @@
+# Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+
+
+# Ignore data files (in case they're sensitive or large)
+data/
+*.csv
+*.xlsx
+*.tsv
+
+# Ignore saved models
+models/
+*.pkl
+*.joblib
+*.h5
+
+
+# Environment/secret files
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
