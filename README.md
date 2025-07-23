@@ -6,20 +6,28 @@
 ### Author : Rachel Odhiambo
 
 ## Introduction
+Customer churn, also called customer attrition, refers to when users **stop doing business** with a company. In the telecom industry, this is when a subscriber **discontinues their mobile, internet, or voice service**, either by switching to a competitor or dropping service altogether.
+In today's **hyper-competitive telecom market**, where customer acquisition costs are rising, **retaining existing customers** has become a **strategic necessity**.
 
-In today's competitive business landscape, customer retention is paramount for sustainable growth and success. Our challenge is to develop a predictive model that can identify customers who are at risk of churning – discontinuing their use of our service.
+### Why It Matters
+- Acquiring new users costs **5–7× more** than retention.
+- A **5% retention increase** can boost profits by **25–95%**.
+- Churn rates average **1–3%**, and can exceed **6%** in emerging markets,causing major revenue loss.
 
-Customer churn can lead to a significant loss of revenue and a decline in market share. By leveraging machine learning techniques, we aim to build a model that can accurately predict whether a customer is likely to churn based on their historical usage behavior, demographic information, and subscription details.
+### Real-World Cases
+- **Vodafone UK** lost 500K users due to billing issues → adopted AI-based churn prediction.
+- **MTN Nigeria** used ML to trigger automated SMS/app retention messages.
+- **Safaricom (Kenya)** launched micro-campaigns to retain Gen Z users lost to Airtel.
 
-This predictive model will allow us to proactively target high-risk customers with personalized retention strategies, ultimately helping us enhance customer satisfaction, reduce churn rates, and optimize our business strategies.
 
-The goal is to create an effective solution that contributes to the long-term success of our company by fostering customer loyalty and engagement.
+In today's competitive business landscape, customer retention is paramount for sustainable growth and success. .
 
 
 ## Project Overview
 
 This project leverages machine learning to predict customer churn using the **SyriaTel Telecom** dataset. It includes thorough data exploration, model experimentation, and final recommendations to help stakeholders reduce churn and improve retention.
 
+---
 
 ## Business Understanding
 
@@ -89,10 +97,9 @@ This project is designed to answer the following critical business questions:
 5. How can we use these predictions to design effective retention strategies?  
 6. Which departments can benefit the most from this information, and how?
 
-
+---
 
 ## About the Data
-T## 1. About the Data
 
 This project uses the **SyriaTel Customer Churn dataset**, which simulates real-world telecom customer behavior to predict churn.
 
@@ -161,7 +168,7 @@ To better understand the drivers of churn, several key factors were analyzed. Th
 
 ![Churn Insights](Output/churn_insights.png)
 
-
+---
 ## Expected Deliverables
 
 1. **Cleaned Dataset** – Preprocessed and ready for modeling.  
@@ -251,7 +258,7 @@ This project successfully built and evaluated multiple machine learning models t
 
 > By leveraging advanced ML techniques and focusing on actionable metrics, this project offers a **data-driven, scalable solution** to reduce churn and improve customer retention strategies.
 
-
+---
 ## Repository Structure
 
 This project is structured for clarity, reproducibility, and smooth collaboration. Below is a breakdown of all files and directories:
