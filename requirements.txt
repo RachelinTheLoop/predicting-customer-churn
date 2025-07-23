@@ -1,0 +1,18 @@
+# Core Libraries
+pandas==1.5.3             # Data manipulation and preprocessing
+numpy==1.24.3             # Numerical operations and arrays
+
+# Visualization
+matplotlib==3.7.1         # Plotting static, animated, and interactive visualizations
+seaborn==0.12.2           # Statistical data visualization on top of matplotlib
+
+# Machine Learning Models & Evaluation
+scikit-learn==1.2.2       # ML models, preprocessing, metrics, model selection
+xgboost==1.7.5            # Gradient boosting algorithm used for final model
+
+# Handling Imbalanced Data
+imbalanced-learn==0.10.1  # SMOTE and resampling techniques for imbalanced datasets
+
+# Jupyter Notebook Environment
+jupyterlab==3.6.3         # Interactive development and notebook interface
+# joblib==1.2.0           # Model serialization (used with sklearn if saving models)

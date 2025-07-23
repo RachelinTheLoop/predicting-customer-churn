@@ -1,4 +1,4 @@
-![](istockphoto.jpg)
+![](customer_loyalty.jpg)
 
 # Customer Churn Prediction: Data-Driven Insights for Proactive Retention
 
@@ -66,7 +66,7 @@ Demonstrates the real business value of predictive modeling and machine learning
 
 
 
-## 4. ## Project Goals
+## Project Goals
 
 The primary goal of this project is to build a predictive machine learning model that can accurately identify customers who are likely to churn (i.e., stop using the service). By analyzing customer behavior and attributes, the project aims to:
 
@@ -101,11 +101,11 @@ This project uses the **SyriaTel Customer Churn dataset**, which simulates real-
 1. **Source**: [Kaggle – Churn in Telecoms Dataset]
 2. **Records**: 3,333 customers  
 3. **Target Variable**: `Churn` – Indicates whether a customer left (`Yes`) or stayed (`No`)  
-4. **Features**: Customer demographics, account details (e.g., tenure, charges, contract type), and services subscribed (e.g., internet, tech support)
+4. **Features**: Customer demographics, account details (e.g., total minutes, charges, customer service calls), and services subscribed.
 
 ### Preprocessing Steps
 
-1. Handled missing values in the `TotalCharges` column  
+1. Handled outliers and dropped columns with high cardinality 
 2. Converted categorical variables using one-hot encoding  
 3. Scaled numerical features using `StandardScaler`  
 4. Applied SMOTE to balance the classes (`Churn`: Yes vs No)
@@ -114,7 +114,7 @@ This project uses the **SyriaTel Customer Churn dataset**, which simulates real-
 
 1. **Class Imbalance** – Majority of customers did not churn  
 2. **No Time-Series Data** – Limits behavioral trend analysis  
-3. **Synthetic Dataset** – Based on simulated data, not from an actual telecom company
+3. **Synthetic Dataset** – Based on simulated data
 
 
 
@@ -159,7 +159,8 @@ To better understand the drivers of churn, several key factors were analyzed. Th
 
 ### Visual Summary
 
-![Churn Insights](churn_insights.png)
+![Churn Insights](Output/churn_insights.png)
+
 
 ## Expected Deliverables
 
@@ -194,7 +195,7 @@ To better understand the drivers of churn, several key factors were analyzed. Th
 
 To predict customer churn, several supervised classification models were trained and evaluated.
 
-### 6.1 Models Trained
+### Models Trained
 
 1. **Logistic Regression** – Used as a baseline model for performance comparison.  
 2. **Logistic Regression (L2 Regularization)** – Added regularization to reduce overfitting.  
@@ -204,7 +205,7 @@ To predict customer churn, several supervised classification models were trained
 6. **Random Forest** – Ensemble of decision trees for improved performance and robustness.  
 7. **XGBoost** – Advanced gradient boosting technique; best performer in our experiments.
 
-### 6.2 Evaluation Strategy
+### 6.Evaluation Strategy
 
 We evaluated model performance using the following metrics:
 
