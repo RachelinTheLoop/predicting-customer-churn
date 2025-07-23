@@ -263,19 +263,24 @@ This project successfully built and evaluated multiple machine learning models t
 
 This project is structured for clarity, reproducibility, and smooth collaboration. Below is a breakdown of all files and directories:
 
-Customer_Churn_Prediction/
-├── churn_prediction_notebook.ipynb     
-├── Output/ # Folder for saved plots and evaluation visuals
-│ ├── churn_analysis_hd.png 
-│ ├── churn_insights.png
-│ ├── confusion_matrices.png
-│ ├── roc_curves_compact.png # 
-│ └── model_evaluation_compact.png 
-├──  README.md 
-├──   requirements.txt # List of Python libraries used in the project
-├─gitgignore
-├──gitattributes
-├──presentation.pdf
+📁 Customer_Churn_Prediction  
+│  
+├── 📓 churn_prediction_notebook.ipynb            # Main Jupyter notebook with analysis & modeling  
+│  
+├── 📁 Output                                      # Folder for saved plots and evaluation visuals  
+│   ├──  churn_analysis_hd.png                   # High-quality project banner image  
+│   ├──  churn_insights.png                      # EDA visual insights  
+│   ├── confusion_matrices.png                  # Confusion matrices for all models  
+│   ├──  roc_curves_compact.png                  # Combined ROC curves  
+│   ├──  model_evaluation_compact.png            # Accuracy, precision, recall, F1 summary  
+│   └──  churn_pie_chart.png                     # Pie chart showing churn vs. no churn  
+│  
+├── 📄 README.md                                   # Project documentation  
+├── 📄 requirements.txt                            # Python libraries used  
+├── 📄 .gitignore                                  # Files/folders to ignore in Git versioning  
+├── 📄 .gitattributes                              # Git settings for handling files  
+├── 📄 presentation.pdf                            # Final project presentation slides  
+
 
 
 
