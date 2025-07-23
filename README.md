@@ -264,11 +264,11 @@ Customer_Churn_Prediction/
 │ ├── confusion_matrices.png
 │ ├── roc_curves_compact.png # 
 │ └── model_evaluation_compact.png 
-├──  README.md # 
+├──  README.md 
 ├──   requirements.txt # List of Python libraries used in the project
 ├─gitgignore
 ├──gitattributes
-
+├──presentation.pdf
 
 
 
