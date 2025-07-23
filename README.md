@@ -1,4 +1,4 @@
-![](customer_loyalty.jpg)
+![](Output/customer_loyalty.jpg)
 
 # Customer Churn Prediction: Data-Driven Insights for Proactive Retention
 
