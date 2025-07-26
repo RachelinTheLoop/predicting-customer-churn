@@ -299,18 +299,14 @@ cd customer_churn_prediction
 
 ## 👩🏽‍💻 Let's Connect & Collaborate!
 
-I'm always excited to connect with fellow data enthusiasts, collaborators, or recruiters. Whether it's to discuss ideas, projects, or opportunities—don't hesitate to reach out!
+## 👩🏽‍💻 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rachelodhiambo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rakothodhiambo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+I'm always happy to connect, collaborate, or chat about data science, analytics, and growth opportunities.
 
-> 💬 *“Alone we can do so little; together we can do so much.” – Helen Keller*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachelodhiambo/)
+[![Email](https://img.shields.io/badge/Gmail-rakothodhiambo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakothodhiambo@gmail.com)
+
+> _“Alone we can do so little; together we can do so much.” – Helen Keller_
 
 
 Feel free to reach out or submit issues in this repo!
