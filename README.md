@@ -162,7 +162,7 @@ To better understand the drivers of churn, several key factors were analyzed. Th
 - **Voice Mail Plan**: Customers without a voicemail plan showed slightly higher churn tendencies.
 - **Total Calls vs. Churn**: Explored how overall call volume relates to churn rate.
 - **International Plan**: Customers with international plans were significantly more likely to churn.
-- **Geographical Churn Patterns**: Churn rates were also analyzed across different U.S. states to uncover location-based trends.
+- **Geographical Churn Patterns**: Churn rates were also analyzed across different states to uncover location-based trends.
 
 ### Visual Summary
 
@@ -195,7 +195,7 @@ To better understand the drivers of churn, several key factors were analyzed. Th
    - Total number of calls  
 
 2. **Churn by State**  
-   Visualizes churn distribution across U.S. states to identify geographic patterns.
+   Visualizes churn distribution across states to identify geographic patterns.
 
 
 ##  Models Used and Evaluation Strategies
@@ -297,5 +297,20 @@ git clone https://github.com/your-username/customer_churn_prediction.git
 cd customer_churn_prediction
 
 
-## Questions?
+## 👩🏽‍💻 Let's Connect & Collaborate!
+
+I'm always excited to connect with fellow data enthusiasts, collaborators, or recruiters. Whether it's to discuss ideas, projects, or opportunities—don't hesitate to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rachelodhiambo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rakothodhiambo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+> 💬 *“Alone we can do so little; together we can do so much.” – Helen Keller*
+
+
 Feel free to reach out or submit issues in this repo!
