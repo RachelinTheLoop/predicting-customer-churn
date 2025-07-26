@@ -281,28 +281,36 @@ This project is structured for clarity, reproducibility, and smooth collaboratio
 ├── 📄 .gitattributes                              # Git settings for handling files  
 ├── 📄 presentation.pdf                            # Final project presentation slides  
 
+---
 
-
-
-## How to Run
-
-## 🚀 How to Run This Project
-
-Follow the steps below to reproduce the results and explore the project:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/customer_churn_prediction.git
-cd customer_churn_prediction
+## ---
 
 ## 👩🏽‍💻 Let's Connect & Collaborate!
 
-I'm always happy to connect, collaborate, or chat about data science, analytics, and impactful opportunities.  
+Thanks for checking out this project!  
+I’m always excited to connect, collaborate, or talk about data, analytics, and impactful opportunities in tech 🚀
 
-- 🔗 **LinkedIn** → [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)  
+- 🔗 **LinkedIn** → [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)
 - 📬 **Email** → [rakothodhiambo@gmail.com](mailto:rakothodhiambo@gmail.com)
 
 > _“Alone we can do so little; together we can do so much.” – Helen Keller_
 
-Have questions or feedback? Feel free to reach out — or open an issue in this repo!
+---
+
+## 🚀 How to Run This Project
+
+Want to explore or reproduce the results on your own machine? Follow these simple steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/customer_churn_prediction.git
+
+# Navigate into the project folder
+cd customer_churn_prediction
+```
+
+### Final Notes
+If you found this project useful, insightful, or inspiring — feel free to star ⭐ the repo or fork it!
+🛠️ Questions, feedback, or ideas? Open an issue or reach out via LinkedIn or Email.
+
+<p align="center"> <strong>Thanks for reading!</strong><br/> <em>Keep learning. Keep building. Keep connecting.</em> 💡✨ </p> ```
