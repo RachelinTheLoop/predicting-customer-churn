@@ -283,8 +283,6 @@ This project is structured for clarity, reproducibility, and smooth collaboratio
 
 ---
 
-## ---
-
 ## 👩🏽‍💻 Let's Connect & Collaborate!
 
 Thanks for checking out this project!  
@@ -297,7 +295,7 @@ I’m always excited to connect, collaborate, or talk about data, analytics, and
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 Want to explore or reproduce the results on your own machine? Follow these simple steps:
 
@@ -313,4 +311,4 @@ cd customer_churn_prediction
 If you found this project useful, insightful, or inspiring — feel free to star ⭐ the repo or fork it!
 🛠️ Questions, feedback, or ideas? Open an issue or reach out via LinkedIn or Email.
 
-<p align="center"> <strong>Thanks for reading!</strong><br/> <em>Keep learning. Keep building. Keep connecting.</em> 💡✨ </p> ```
+<p align="center"> <strong>Thanks for reading!</strong><br/> <em>Keep learning. Keep building. Keep connecting.</em> 💡✨ </p> 
