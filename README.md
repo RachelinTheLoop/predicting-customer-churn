@@ -296,17 +296,13 @@ Follow the steps below to reproduce the results and explore the project:
 git clone https://github.com/your-username/customer_churn_prediction.git
 cd customer_churn_prediction
 
-
 ## 👩🏽‍💻 Let's Connect & Collaborate!
 
-## 👩🏽‍💻 Let's Connect!
+I'm always happy to connect, collaborate, or chat about data science, analytics, and impactful opportunities.  
 
-I'm always happy to connect, collaborate, or chat about data science, analytics, and growth opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachelodhiambo/)
-[![Email](https://img.shields.io/badge/Gmail-rakothodhiambo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakothodhiambo@gmail.com)
+- 🔗 **LinkedIn** → [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)  
+- 📬 **Email** → [rakothodhiambo@gmail.com](mailto:rakothodhiambo@gmail.com)
 
 > _“Alone we can do so little; together we can do so much.” – Helen Keller_
 
-
-Feel free to reach out or submit issues in this repo!
+Have questions or feedback? Feel free to reach out — or open an issue in this repo!
